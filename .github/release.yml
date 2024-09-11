@@ -3,7 +3,7 @@ changelog:
    - title: Enhancements
      labels:
        - enhancement
-  - title: Bug Fixes
-    labels:
-      - bug
-      - fixes
+   - title: Bug Fixes
+     labels:
+        - bug
+        - fixes
